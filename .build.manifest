@@ -1,11 +1,15 @@
 .dart_tool/package_config.json
 .packages
 favicon.png
+flutter.js
+flutter_service_worker.js
 icons/Icon-192.png
 icons/Icon-512.png
 icons/Icon-maskable-192.png
 icons/Icon-maskable-512.png
 index.html
+index.html.bak
+main.dart.js
 manifest.json
 packages/$sdk/dev_compiler/amd/require.js
 packages/$sdk/dev_compiler/ddc/ddc_module_loader.js
@@ -75,3 +79,4 @@ packages/test/src/runner/browser/static/index.html
 packages/test/src/runner/wasm/static/default.html.tpl
 packages/test/src/runner/wasm/static/run_wasm_chrome.js
 packages/web/fix_data.yaml
+version.json
